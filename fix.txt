@@ -1,0 +1,4 @@
+piece_remove = pieces.pop((fi,fj))
+KeyError: (8, 4)
+
+delete 000000000
